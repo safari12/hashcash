@@ -1,0 +1,4 @@
+%{
+  "blockchain": {:git, "https://github.com/safari12/blockchain.git", "746ea0e70ef850af835fb0eb6c01eab77e04f719", [branch: "header-extra"]},
+  "pow": {:git, "https://github.com/safari12/pow.git", "4d58bbbdc6fd3bbd1f2ce60f71c0c627294a2b3a", []},
+}
